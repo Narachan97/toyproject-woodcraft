@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toyproject-woodcraft/static/css/main.4c03222b.css",
+    "main.js": "/toyproject-woodcraft/static/js/main.63d3fb3e.js",
+    "static/js/453.a2ed687a.chunk.js": "/toyproject-woodcraft/static/js/453.a2ed687a.chunk.js",
+    "index.html": "/toyproject-woodcraft/index.html",
+    "main.4c03222b.css.map": "/toyproject-woodcraft/static/css/main.4c03222b.css.map",
+    "main.63d3fb3e.js.map": "/toyproject-woodcraft/static/js/main.63d3fb3e.js.map",
+    "453.a2ed687a.chunk.js.map": "/toyproject-woodcraft/static/js/453.a2ed687a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c03222b.css",
+    "static/js/main.63d3fb3e.js"
+  ]
+}
