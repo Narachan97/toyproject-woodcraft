@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/toyproject-woodcraft/static/css/main.4c03222b.css",
-    "main.js": "/toyproject-woodcraft/static/js/main.63d3fb3e.js",
+    "main.css": "/toyproject-woodcraft/static/css/main.71d285f1.css",
+    "main.js": "/toyproject-woodcraft/static/js/main.bf0d2850.js",
     "static/js/453.a2ed687a.chunk.js": "/toyproject-woodcraft/static/js/453.a2ed687a.chunk.js",
     "index.html": "/toyproject-woodcraft/index.html",
-    "main.4c03222b.css.map": "/toyproject-woodcraft/static/css/main.4c03222b.css.map",
-    "main.63d3fb3e.js.map": "/toyproject-woodcraft/static/js/main.63d3fb3e.js.map",
+    "main.71d285f1.css.map": "/toyproject-woodcraft/static/css/main.71d285f1.css.map",
+    "main.bf0d2850.js.map": "/toyproject-woodcraft/static/js/main.bf0d2850.js.map",
     "453.a2ed687a.chunk.js.map": "/toyproject-woodcraft/static/js/453.a2ed687a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c03222b.css",
-    "static/js/main.63d3fb3e.js"
+    "static/css/main.71d285f1.css",
+    "static/js/main.bf0d2850.js"
   ]
 }
