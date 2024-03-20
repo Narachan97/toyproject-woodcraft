@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/toyproject-woodcraft/static/css/main.71d285f1.css",
-    "main.js": "/toyproject-woodcraft/static/js/main.bf0d2850.js",
+    "main.css": "/toyproject-woodcraft/static/css/main.cc6daabf.css",
+    "main.js": "/toyproject-woodcraft/static/js/main.444b960b.js",
     "static/js/453.a2ed687a.chunk.js": "/toyproject-woodcraft/static/js/453.a2ed687a.chunk.js",
+    "static/media/paper.jpg": "/toyproject-woodcraft/static/media/paper.7a015b5a8ffc50d533ee.jpg",
+    "static/media/sidepaper2.jpg": "/toyproject-woodcraft/static/media/sidepaper2.8c30bbb4565fac323c2c.jpg",
     "index.html": "/toyproject-woodcraft/index.html",
-    "main.71d285f1.css.map": "/toyproject-woodcraft/static/css/main.71d285f1.css.map",
-    "main.bf0d2850.js.map": "/toyproject-woodcraft/static/js/main.bf0d2850.js.map",
+    "main.cc6daabf.css.map": "/toyproject-woodcraft/static/css/main.cc6daabf.css.map",
+    "main.444b960b.js.map": "/toyproject-woodcraft/static/js/main.444b960b.js.map",
     "453.a2ed687a.chunk.js.map": "/toyproject-woodcraft/static/js/453.a2ed687a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71d285f1.css",
-    "static/js/main.bf0d2850.js"
+    "static/css/main.cc6daabf.css",
+    "static/js/main.444b960b.js"
   ]
 }
